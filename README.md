@@ -1,5 +1,5 @@
 # HackerRank-solution
 
--Python
--SQL
-Problem Solving
+#Python
+#SQL
+#Problem Solving
